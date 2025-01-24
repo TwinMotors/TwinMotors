@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @TwinMotors
 - 👀 I’m interested in Coding, CGI, and 3D Modelling
-- 🌱 I’m currently learning Python and 3D Modelling
+- 🌱 I’m currently learning C#, Python and 3D Modelling
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me Discord! Pony Hawk#3088 (changes over time)
+- 📫 How to reach me Discord? Add friend > Add by username > katzen_cats > Send Friend request.
 
 <!---
 TwinMotors/TwinMotors is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
